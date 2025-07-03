@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Cuál es el uso de JavaScript en una página web?",
+    "opciones": [
+      "Estilizar contenido",
+      "Agregar interactividad",
+      "Definir la estructura"
+    ],
+    "respuesta": "Agregar interactividad"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué propiedad de CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "background-color",
+      "font-style",
+      "color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cuál es la etiqueta para enlaces en HTML?",
+    "opciones": [
+      "<link>",
+      "<a>",
+      "<href>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Programming Input",
+      "App Progress Interface"
+    ],
+    "respuesta": "Application Programming Interface"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "respuesta": "HyperText Markup Language"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cuál es el operador de comparación estricta en JavaScript?",
+    "opciones": [
+      "==",
+      "!=",
+      "==="
+    ],
+    "respuesta": "==="
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué es una función en programación?",
+    "opciones": [
+      "Una variable constante",
+      "Un conjunto de instrucciones",
+      "Una etiqueta HTML"
+    ],
+    "respuesta": "Un conjunto de instrucciones"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué hace el elemento <div> en HTML?",
+    "opciones": [
+      "Define una división o sección",
+      "Define una imagen",
+      "Crea un enlace"
+    ],
+    "respuesta": "Define una división o sección"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué método de JavaScript se usa para imprimir en consola?",
+    "opciones": [
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "respuesta": "console.log()"
+  }
+]
